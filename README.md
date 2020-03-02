@@ -1,5 +1,5 @@
 # Scheme-Interpreter
-CS61A Final Project (Fall 2019)
+## CS61A Final Project (Fall 2019)
 A scheme interpreter built in Python, with built-in methods such as map, define-lambda.
 This project demands a deep understanding in the read-eval-print feature of a program, being able to recursively evaluate expressions, and knowledge on lexcial scoping vs dynamic scoping.
 
