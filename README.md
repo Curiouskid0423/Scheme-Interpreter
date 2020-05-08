@@ -19,3 +19,4 @@ scm> (for i '(1 2 3) (print (* i i)))
 9
 (null null null)
 ```
+###### Note: &nbsp;&nbsp; To run okpy files, move the files in `/okpy` directory out to the root directory (rearranged for tidiness).
